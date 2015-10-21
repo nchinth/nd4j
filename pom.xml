@@ -185,7 +185,7 @@
    		   <findbugsXmlOutput>true</findbugsXmlOutput>
    		   <findbugsXmlWithMessages>true</findbugsXmlWithMessages>
    		   <xmlOutput>true</xmlOutput>
-   		   [...]
+                   <findbugsXmlOutputDirectory>/home/nikhil/Desktop/FindBugs</findbugsXmlOutputDirectory>
    		</configuration>
 	    </plugin>
             <plugin>
