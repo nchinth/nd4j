@@ -185,7 +185,7 @@
    		   <findbugsXmlOutput>true</findbugsXmlOutput>
    		   <findbugsXmlWithMessages>true</findbugsXmlWithMessages>
    		   <xmlOutput>true</xmlOutput>
-                   <findbugsXmlOutputDirectory>/home/nikhil/Desktop/FindBugs</findbugsXmlOutputDirectory>
+                   <findbugsXmlOutputDirectory>${project.build.directory}/FindBugs</findbugsXmlOutputDirectory>
                    <failOnError>false</failOnError>
    		</configuration>
    		<executions>
